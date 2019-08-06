@@ -4,7 +4,7 @@ Using mars-photos NASA open API - https://api.nasa.gov/api.html#MarsPhotos - cre
 ### Notes
 - Fork this repo and build the solution in *your* branch
 - Coding the solution will be enough for passing the challenge.
-- Any tools you add like (e.g. log4j, cucumber, etc) will make your test framework look more awesome, and so do you.
+- Any tools you add like log4j, cucumber, etc. will make your test framework look more awesome, and so do you.
 - Any language can be used although we recommend Java since we have courses teaching Java :P
 
 
